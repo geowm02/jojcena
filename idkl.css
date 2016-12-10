@@ -1,5 +1,13 @@
+body{ font-family:"Arial";}
 
-a:hover{color: blue;}
+hr{border-color: blue;}
+a:hover{color: black;}
 a:visited{color: green;}
 a:active{color: red;}
 body{background-color:#6f192a;}
+marquee{font-size:25px;}
+h1{text-align: center;
+font-size: 60px;}
+	p{text-align:center;
+	color: #F03811;
+	font-size:48px;}
