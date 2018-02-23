@@ -1,0 +1,58 @@
+           .pfp{
+             width:200px; 
+             margin: 0 auto;
+             display: block;
+            }
+            html{
+                font-family: Arial;
+            }
+            a{
+             target: _blank; 
+             font-size:18px;
+             color: rgb(0,50,0);
+            }
+            a:hover{
+                
+            color: white;
+            } a:active{
+                
+                color:red;
+            }
+            .p2{
+            color: white;
+            font-family: "Comic Sans MS";
+            
+            } h1{
+                
+                font-size: 60px;
+            }
+            .video{
+                color: orange;
+                font-size: 30px;
+            }
+			iframes{
+				margin: auto;
+			}
+.imga{
+    height: 50px;
+    width: 50px;
+}
+.imga:hover{
+    height:75px;
+}
+	
+	.table{
+	margin: auto;
+	color: white;
+	font-size: 30px;
+	}
+	.td{
+	background-color: red;
+	border: solid 1px black;
+	}
+	a{
+	text-decoration: none;
+	}
+	a:hover{
+	color: white;
+	}

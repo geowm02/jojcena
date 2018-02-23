@@ -1,0 +1,45 @@
+#aTable{
+	border-collapse: collapse;
+	border: 0px solid lightblue;
+	font-size: 24px;
+}
+
+img{
+	width: 200px;
+	content:url("quadraticformula.gif");
+}
+
+.end{
+border: 10px solid; red;
+padding: 20px;
+width: 50px;
+height: 50px;
+font-family: "Impact";
+color: black;
+font-size: 15px;
+margin-left: 100px;
+    
+}
+.end:hover{
+background-color: red;
+}
+body{
+	font-size: "Arial";
+}
+	
+	table{
+	margin: auto;
+	color: white;
+	font-size: 30px;
+	}
+	td{
+	background-color: red;
+	border: solid 1px black;
+	}
+	a{
+	text-decoration: none;
+	}
+	a:hover{
+	color: white;
+	}
+	
